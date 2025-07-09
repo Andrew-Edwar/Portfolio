@@ -13,3 +13,17 @@ body {
     overflow: hidden;
     overflow-y: scroll;
 }
+
+@media screen and (max-width: 720px) {
+    body {
+        font-size: 0.98rem;
+        padding: 0.5rem;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    body {
+        font-size: 0.95rem;
+        padding: 0.25rem;
+    }
+}

@@ -73,8 +73,44 @@
     
 }
 
-@media screen and (max-width:480px) {
+@media screen and (max-width: 720px) {
     .bg {
-        right: -20vw
+        width: 90vw;
+        height: auto;
+        top: 0;
+        right: 0;
+        margin-left: 0;
+        border-radius: 8px;
+    }
+    .introContent {
+        font-size: 7vw;
+        padding: 1rem;
+    }
+    .hello {
+        font-size: 4vw;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .bg {
+        width: 100vw;
+        height: auto;
+        right: 0;
+        top: 0;
+        border-radius: 6px;
+    }
+    .introContent {
+        font-size: 5vw;
+        padding: 0.5rem;
+    }
+    .hello {
+        font-size: 3.5vw;
+    }
+    .introPara {
+        font-size: 0.95rem;
+    }
+    .btn {
+        width: 100%;
+        font-size: 1rem;
     }
 }
