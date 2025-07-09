@@ -69,3 +69,31 @@
         font-size: 5vw;
     }
 }
+
+.certificate {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.certificateImg {
+    max-width: 400px;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+    margin-bottom: 0.5rem;
+}
+
+@media screen and (max-width: 720px) {
+    .certificateImg {
+        max-width: 90vw;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .certificateImg {
+        max-width: 98vw;
+    }
+}
