@@ -4,6 +4,7 @@ import UIDesign from '../../assets/ui-design.png';
 import WebDesign from '../../assets/website-design.png';
 import AppDesign from '../../assets/app-design.png';
 import Certificate from '../../assets/certifcate.png';
+import Certificatee from '../../assets/certifcate2.png';
 
 
 const Skills = () => {
@@ -19,7 +20,7 @@ const Skills = () => {
                     <div className="skillBarText">
                         <h2>Backend Development</h2>
                         <p>
-                            Node.js, Express, Python, Django, SQL/NoSQL, REST APIs, Cloud (Docker, Kubernetes, OpenShift).
+                            Node.js, Express, Python, REST APIs, .NET Core, PHP .
                         </p>
                     </div>
                 </div>
@@ -28,7 +29,7 @@ const Skills = () => {
                     <div className="skillBarText">
                         <h2>Frontend Development</h2>
                         <p>
-                            React, HTML, CSS, JavaScript, UI/UX best practices.
+                            React,Angular, HTML, CSS, JavaScript, UI/UX best practices.
                         </p>
                     </div>
                 </div>
@@ -37,6 +38,10 @@ const Skills = () => {
             <div className="certificate">
                 <img src={Certificate} alt="IBM Full Stack Certificate" className="certificateImg" />
                 <p>IBM Certified Full Stack Software Developer</p>
+            </div>
+            <div className="certificate">
+                <img src={Certificatee} alt="Olympic Certificate" className="certificateImg" />
+                <p>Participation in the Seventh Computers and Information Olympics </p>
             </div>
         </section>
     );
