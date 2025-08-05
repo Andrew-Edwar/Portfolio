@@ -18,7 +18,6 @@ const Intro = () => {
                     I have worked on both frontend and backend projects, but I prefer backend development.<br />
                     I enjoy creating robust, scalable, and efficient solutions.
                 </p>
-                <Link><button className="btn"><img src={btnImg} alt="Hire" className='btnImg'/> Hire Me</button></Link>
             </div>
             <img src={bg} alt="Profile" className="bg" />
         </section>
