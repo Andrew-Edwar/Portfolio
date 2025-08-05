@@ -29,7 +29,7 @@ const Skills = () => {
                     <div className="skillBarText">
                         <h2>Frontend Development</h2>
                         <p>
-                            React,Angular, HTML, CSS, JavaScript, UI/UX best practices.
+                            React, Angular, HTML, CSS, JavaScript, UI/UX best practices.
                         </p>
                     </div>
                 </div>

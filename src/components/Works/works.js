@@ -14,7 +14,7 @@ const Works = () => {
             <span className="worksDesc">
   Here are some of the web applications I have built as a full stack developer. While I enjoy working across the stack, I am especially passionate about backend development—designing robust APIs, managing databases, and deploying scalable solutions. My projects demonstrate my ability to deliver complete, production-ready applications.
   <br /><br />
-  See more of my work on <a href="https://github.com/Andreeeeewww?tab=repositories" target="_blank" rel="noopener noreferrer">GitHub</a>.
+  See more of my work on <a href="https://github.com/Andrew-Edwar" target="_blank" rel="noopener noreferrer">GitHub</a>.
 </span>
             <div className="worksImgs">
                 <div className="projectEntry">
@@ -53,7 +53,7 @@ const Works = () => {
                 
                
             </div>
-            <a href="https://github.com/Andreeeeewww?tab=repositories" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/Andrew-Edwar" target="_blank" rel="noopener noreferrer">
                 <button className="workBtn">See More</button>
             </a>
         </section>
