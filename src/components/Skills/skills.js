@@ -20,7 +20,6 @@ const Skills = () => {
                         <h2>Backend Development</h2>
                         <p>
                             Node.js, Express, Python, Django, SQL/NoSQL, REST APIs, Cloud (Docker, Kubernetes, OpenShift).
-                            p;
                         </p>
                     </div>
                 </div>
