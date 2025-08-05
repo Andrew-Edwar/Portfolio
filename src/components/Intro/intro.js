@@ -14,9 +14,10 @@ const Intro = () => {
                     Aspiring Full Stack Developer
                 </span>
                 <p className="introPara">
-                    I am a soon-to-be graduate with hands-on experience building web applications.<br />
-                    I have worked on both frontend and backend projects, but I prefer backend development.<br />
-                    I enjoy creating robust, scalable, and efficient solutions.
+                I’m a soon-to-be graduate with practical experience in developing both frontend and backend components of modern web applications. <br />
+                With a strong foundation in Software Engineering, I enjoy transforming ideas into efficient, user-friendly, and maintainable systems.<br /> 
+                I am constantly learning and eager to contribute to real-world tech solutions that make a difference.
+                    
                 </p>
             </div>
             <img src={bg} alt="Profile" className="bg" />
